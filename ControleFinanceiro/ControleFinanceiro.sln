@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro", "ControleFinanceiro.csproj", "{5F8618D7-B0BE-4F3F-9C79-D2F285FC106B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.Tests", "..\ControleFinanceiro.Tests\ControleFinanceiro.Tests.csproj", "{C71DBA0B-C5EE-4DF1-A6CB-47F8F78B711B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F8618D7-B0BE-4F3F-9C79-D2F285FC106B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8618D7-B0BE-4F3F-9C79-D2F285FC106B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8618D7-B0BE-4F3F-9C79-D2F285FC106B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8618D7-B0BE-4F3F-9C79-D2F285FC106B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71DBA0B-C5EE-4DF1-A6CB-47F8F78B711B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71DBA0B-C5EE-4DF1-A6CB-47F8F78B711B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71DBA0B-C5EE-4DF1-A6CB-47F8F78B711B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71DBA0B-C5EE-4DF1-A6CB-47F8F78B711B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
